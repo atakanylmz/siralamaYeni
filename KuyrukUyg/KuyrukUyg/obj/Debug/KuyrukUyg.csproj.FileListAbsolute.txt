@@ -1,0 +1,9 @@
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\bin\Debug\KuyrukUyg.exe.config
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\bin\Debug\KuyrukUyg.exe
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\bin\Debug\KuyrukUyg.pdb
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.exe
+C:\Users\Serap\Desktop\nesne\proje\KuyrukUyg\KuyrukUyg\obj\Debug\KuyrukUyg.pdb
